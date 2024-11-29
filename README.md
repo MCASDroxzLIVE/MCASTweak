@@ -1,0 +1,1 @@
+MCASTweak is a software designed to maximize your PC's performance on Windows, specifically for gaming. With targeted optimizations, it enhances smoothness, reduces latency, and disables unnecessary processes to ensure a seamless gaming experience. Whether you play competitive or single-player games, MCASTweak optimizes your system to get the most out of your hardware.
